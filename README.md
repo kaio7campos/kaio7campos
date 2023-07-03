@@ -14,15 +14,18 @@
 <a href = "mailto:cmp.1a.kaio_oliveiracampos@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio7campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ <br>
+ <br>
 
-### Pricipais skills:
-
+                                                      ### Pricipais skills:
+<br>
 <div align="center">
 <img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=html,css,js,figma,"/>
 </div>
+<br>
+<br>
 
-
-### Estudando:
+                                                            ### Estudando:
 <div align="center">
   
 <img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=java,spring,mysql"/>
