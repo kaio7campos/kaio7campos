@@ -18,7 +18,7 @@
  <br>
 
                                                       ### Pricipais skills:
-<br>
+
 <div align="center">
 <img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=html,css,js,figma,"/>
 </div>
