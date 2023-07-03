@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sejam+Bem-vindos!;Sou+Caio+de+Oliveira,+Dev+Front-end;Da+Zona-Leste+da+cidade+de+São+Paulo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="26%" src="https://github-readme-stats.vercel.app/api?username=kaio7campos&show_icons=true&count_private=true&hide_border=true&title_color=DC24FF&icon_color=1CB384&text_color=4DFFC6&bg_color=000" alt="Caio Oliveira github stats" /> 
-  <img width="44%" height="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio7campos&layout=compact&hide_border=true&title_color=DC24FF&text_color=4DFFC6&bg_color=000" />
+  <img width="49%" height="26%" src="https://github-readme-stats.vercel.app/api?username=kaio7campos&show_icons=true&count_private=true&border_color=DC24FF&title_color=DC24FF&icon_color=1CB384&text_color=4DFFC6&bg_color=000000" alt="Caio Oliveira github stats" /> 
+  <img width="44%" height="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio7campos&layout=compact&border_color=DC24FF&title_color=DC24FF&text_color=4DFFC6&bg_color=000000" />
 </div>
 
 <br>
