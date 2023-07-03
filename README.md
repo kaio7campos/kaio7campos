@@ -6,22 +6,19 @@
   <img width="49%" height="26%" src="https://github-readme-stats.vercel.app/api?username=kaio7campos&show_icons=true&count_private=true&hide_border=true&title_color=DC24FF&icon_color=1CB384&text_color=4DFFC6&bg_color=000" alt="Caio Oliveira github stats" /> 
   <img width="44%" height="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio7campos&layout=compact&hide_border=true&title_color=DC24FF&text_color=4DFFC6&bg_color=000" />
 </div>
+
 <br>
 <br>
+
 <div align="center"> 
 <a href = "mailto:cmp.1a.kaio_oliveiracampos@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio7campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 ### Pricipais skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 <div align="center">
-  
 <img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=html,css,js,figma,"/>
-
-
-
 </div>
 
 
