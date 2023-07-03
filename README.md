@@ -16,24 +16,39 @@
 ### Pricipais skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<div align="center">
+  
+<img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=html,css,js,figma,"/>
 
+
+
+</div>
 
 
 ### Estudando:
+<div align="center">
+  
+<img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=java,spring,mysql"/>
+</div>
 
 <br>
 <br>
 <br>
+
 Gosto de variar e tentar novas ideias, sou calmo e pensante, tenho uma forte atração pelo mundo digital, onde posso criar, experimentar novas ideias e pensamentos.
 Quebrando padrões desnecessários, reconstruindo uma ideia um pensamento ou um site. 
 "Ninguem nasce sabendo, todo mundo aprende" - Professor Luiz Camelo.
+
 <br>
 <br>
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Acesso a Conta</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaio7campos}/count.svg" /></p> 
 <br>
 </div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
